@@ -2,7 +2,7 @@
 
 Prototype of DI container if Go
 
-```
+```go
 type UserService struct {
 	Name string
 }
